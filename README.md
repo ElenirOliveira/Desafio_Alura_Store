@@ -18,7 +18,7 @@ Avaliamos a média de avaliações feitas pelos clientes nas quatro lojas.
 ### 2. Total de Vendas por Categoria de Produto
 Com base nos preços e categorias dos produtos vendidos, identificamos o desempenho por categoria.
 
-![Gráfico de Categorias](grafico_categorias.png)
+![Gráfico de Categorias](categoria do produto.png)
 
 **Interpretação**: Categorias com maior volume de vendas indicam maior demanda e devem ser priorizadas.
 
