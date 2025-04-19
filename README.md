@@ -1,4 +1,3 @@
-# Desafio_Alura_Store
 
 # Relatório de Análise das Lojas - Alura Storie
 
