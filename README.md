@@ -9,7 +9,6 @@ Durante este desafio, o objetivo foi ajudar o Senhor João a decidir qual das qu
 ### 1. Média de Avaliação por Loja
 Avaliamos a média de avaliações feitas pelos clientes nas quatro lojas.
 
-![Avaliação por loja](avaliação por loja.png)
 
 **Interpretação**: Esse gráfico mostra quais lojas entregam a melhor experiência para os clientes com base nas avaliações de compra.
 
@@ -18,7 +17,6 @@ Avaliamos a média de avaliações feitas pelos clientes nas quatro lojas.
 ### 2. Total de Vendas por Categoria de Produto
 Com base nos preços e categorias dos produtos vendidos, identificamos o desempenho por categoria.
 
-![Gráfico de Categorias](categoria do produto.png)
 
 **Interpretação**: Categorias com maior volume de vendas indicam maior demanda e devem ser priorizadas.
 
@@ -27,8 +25,6 @@ Com base nos preços e categorias dos produtos vendidos, identificamos o desempe
 ### 3. Média do Frete por Loja
 Verificamos a média de valor de frete cobrado em cada loja, um fator importante para atratividade da loja.
 
-![Gráfico de Fretes](grafico_fretes.png)
-<img src="https://exemplo.com/logo.png" alt="Logo da Minha Empresa">
 
 **Interpretação**: Lojas com frete médio mais elevado podem perder competitividade.
 
