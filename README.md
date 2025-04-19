@@ -9,8 +9,7 @@ Durante este desafio, o objetivo foi ajudar o Senhor João a decidir qual das qu
 ### 1. Média de Avaliação por Loja
 Avaliamos a média de avaliações feitas pelos clientes nas quatro lojas.
 
-![Avaliação por loja](C:\Users\BlueShift\Desktop\desafio_alura_storie)
-![Gráfico de Avaliações](Desktop/desafio_alura_storie)
+![Avaliação por loja](avaliação por loja.pnge)
 
 **Interpretação**: Esse gráfico mostra quais lojas entregam a melhor experiência para os clientes com base nas avaliações de compra.
 
